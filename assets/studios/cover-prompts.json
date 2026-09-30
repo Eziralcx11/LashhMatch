@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "urban-c-lashes-tanza",
+    "prompt": "Generate one square raster illustration for a beauty-studio directory thumbnail. A tiny blush pink lash salon storefront with glass doorway, warm illuminated arched mirrors visible inside, peach walls and potted plants, front-facing three-quarter view. Polished semi-realistic architectural illustration, soft natural lighting, delicate realistic materials, sophisticated pink beauty-brand palette. Clear centered composition readable as a 72px square thumbnail; enough room around building/interior. No people, no text, no logo, no watermark. This is a fictional decorative salon illustration, not a depiction of any named business. Save the generated asset and return its local file path.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "slug": "jems-lashenails-aesthetic-tanza",
+    "prompt": "Generate one square raster illustration for a beauty-studio directory thumbnail. An intimate dusty rose salon reception, scalloped marble counter, two cream boucle chairs, brass arch mirrors, cozy boutique interior. Polished semi-realistic architectural illustration, soft natural lighting, delicate realistic materials, sophisticated pink beauty-brand palette. Clear centered composition readable as a 72px square thumbnail; enough room around building/interior. No people, no text, no logo, no watermark. This is a fictional decorative salon illustration, not a depiction of any named business. Save the generated asset and return its local file path.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "slug": "glam-looks-beauty-studio-tanza",
+    "prompt": "Generate one square raster illustration for a beauty-studio directory thumbnail. A chic soft mauve beauty studio storefront at dusk, tall arched glass door, subtle golden lights, small flowering planter, welcoming boutique exterior. Polished semi-realistic architectural illustration, soft natural lighting, delicate realistic materials, sophisticated pink beauty-brand palette. Clear centered composition readable as a 72px square thumbnail; enough room around building/interior. No people, no text, no logo, no watermark. This is a fictional decorative salon illustration, not a depiction of any named business. Save the generated asset and return its local file path.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "slug": "brow-fairy-sanja-mayor",
+    "prompt": "Generate one square raster illustration for a beauty-studio directory thumbnail. A whimsical elegant blush and ivory lash studio interior, arched treatment alcove with reclining beauty chair, small flowers and warm pendant lighting. Polished semi-realistic architectural illustration, soft natural lighting, delicate realistic materials, sophisticated pink beauty-brand palette. Clear centered composition readable as a 72px square thumbnail; enough room around building/interior. No people, no text, no logo, no watermark. This is a fictional decorative salon illustration, not a depiction of any named business. Save the generated asset and return its local file path.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "slug": "hidden-beauty-luxe-imus",
+    "prompt": "Generate one square raster illustration for a beauty-studio directory thumbnail. A luxurious warm cream and terracotta beauty salon interior, walnut reception counter, round gold mirror, blush sofa, softly lit boutique interior. Polished semi-realistic architectural illustration, soft natural lighting, delicate realistic materials, sophisticated pink beauty-brand palette. Clear centered composition readable as a 72px square thumbnail; enough room around building/interior. No people, no text, no logo, no watermark. This is a fictional decorative salon illustration, not a depiction of any named business. Save the generated asset and return its local file path.",
+    "tool": "built-in image_gen"
+  },
+  {
+    "slug": "khitels-wax-eyelash-salon-bacoor",
+    "prompt": "Generate one square raster illustration for a beauty-studio directory thumbnail. A compact pretty cream and dusty pink beauty salon exterior, large window showing a lash chair, brass door handle, soft awning and lush potted plant. Polished semi-realistic architectural illustration, soft natural lighting, delicate realistic materials, sophisticated pink beauty-brand palette. Clear centered composition readable as a 72px square thumbnail; enough room around building/interior. No people, no text, no logo, no watermark. This is a fictional decorative salon illustration, not a depiction of any named business. Save the generated asset and return its local file path.",
+    "tool": "built-in image_gen"
+  }
+]

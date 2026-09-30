@@ -1,0 +1,43 @@
+
+#studio-detail{height:100%;overflow:auto;display:grid;grid-template-columns:minmax(0,1.35fr) minmax(280px,1fr);gap:26px;padding:28px 36px 40px;background:#fff9fb;align-content:start;color:#352632;box-sizing:border-box}
+.detail-heading{grid-column:1/-1;position:relative;padding-right:230px}
+.detail-back{border:0;background:none;color:#9e3764;padding:0;margin-bottom:22px;font:600 13px inherit;cursor:pointer}
+.studios-page .detail-heading h1{font:500 clamp(28px,3.3vw,48px)/1.12 Georgia,serif;margin:8px 0 12px;letter-spacing:-1px;overflow-wrap:anywhere}
+.detail-heading .eyebrow,.detail-contact .eyebrow{font-size:10px;letter-spacing:2px;color:#a34b70;font-weight:700}
+.client-home .detail-address{font-size:14px;line-height:1.6;color:#766773;max-width:700px}
+.detail-tools{position:absolute;right:0;bottom:8px;display:flex;gap:8px}
+.detail-tools button{background:white;border:1px solid #ead6df;color:#873a5c;border-radius:20px;padding:10px 14px;cursor:pointer}
+.detail-tools button[aria-pressed=true]{background:#f9dfea}
+.detail-left,.detail-right{min-width:0}
+.detail-cover{height:220px;border-radius:24px;background:radial-gradient(ellipse at 15% 20%,#fff5e8,transparent 60%),linear-gradient(125deg,#f4d4dd,#d8a8be);display:grid;place-items:center;position:relative;overflow:hidden}
+.detail-cover img{height:100%;width:100%;object-fit:cover}
+.studio-monogram{font:italic 52px Georgia,serif;color:#873c60}
+.detail-cover .studio-monogram{font-size:88px;color:#8e4964;letter-spacing:-6px}
+.detail-cover-caption{position:absolute;bottom:18px;left:20px;max-width:calc(100% - 40px);box-sizing:border-box;background:#fff9;padding:8px 14px;border-radius:20px;font-size:12px;backdrop-filter:blur(8px)}
+.detail-about,.detail-services{padding:24px 2px 0}
+#studio-detail h2{font:600 20px Georgia,serif;margin:0 0 13px;color:#4b2b3d}
+.client-home .detail-about p,.detail-services p,.detail-location p{font-size:13px;line-height:1.8;color:#786771}
+.detail-tags{display:flex;gap:8px;flex-wrap:wrap}
+.detail-tags span{background:#f8e5ed;color:#93436a;border:1px solid #f0d2df;padding:8px 15px;border-radius:20px;font-size:12px}
+.detail-contact,.detail-location{background:white;border:1px solid #efdee5;border-radius:22px;padding:24px;box-shadow:0 8px 30px #71344d06}
+.detail-location{margin-top:16px;background:#fff3f7}
+.contact-row{padding:15px 0;border-bottom:1px solid #f4e9ed;overflow-wrap:anywhere;font-size:14px}
+.contact-row>span{display:block;font-size:10px;text-transform:uppercase;letter-spacing:1.3px;color:#927e88;margin-bottom:7px}
+#studio-detail a{color:#a33867;text-underline-offset:4px}
+.client-home .contact-row p{font-size:13px;line-height:1.6;margin:0;color:#53424c}
+.detail-contact-actions{display:flex;flex-wrap:wrap;gap:9px;margin-top:22px}
+#studio-detail .contact-primary,#studio-detail .contact-secondary,.directions-link,#detail-map{display:inline-flex;align-items:center;justify-content:center;gap:8px;border-radius:12px;padding:12px 16px;font:600 13px Arial,sans-serif;text-decoration:none}
+#studio-detail .contact-primary{background:#b83e72;color:white}
+#studio-detail .contact-secondary{background:#f9e8ef}
+.directions-link{background:white;border:1px solid #edd2de}
+#detail-map{margin-top:10px;background:none;border:0;color:#984265;cursor:pointer}
+#detail-map:disabled{opacity:.5;cursor:default}
+.client-home .detail-source{font-size:10px;line-height:1.7;margin:14px 0 0}
+#studio-detail :is(a,button):focus-visible{outline:3px solid #a83b70;outline-offset:4px}
+@media(max-width:1050px){#studio-detail{padding:22px;gap:20px}.detail-heading{padding-right:0}.detail-tools{position:static;margin-top:16px}.detail-contact,.detail-location{padding:20px}}
+@media(max-width:800px){#studio-detail{display:flex;flex-direction:column;padding:18px 14px;gap:22px}.detail-cover{height:180px}.detail-contact,.detail-location{padding:20px}.detail-back{margin-bottom:16px}.detail-right{width:100%}.detail-tools button{min-height:42px}.detail-heading h1{font-size:30px}}
+
+.detail-heading h1:focus{outline:none}
+
+.studio-art-label{position:absolute;bottom:0;left:0;right:0;padding:4px 2px;background:#fff1f5ed;color:#77304e;text-align:center;font:600 9px/1.2 Arial,sans-serif}
+.detail-cover .studio-art-label{top:14px;right:14px;left:auto;bottom:auto;padding:7px 12px;border-radius:20px;font-size:11px}
